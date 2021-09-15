@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/truffle-react-voting/static/css/main.017233eb.chunk.css",
+    "main.js": "/truffle-react-voting/static/js/main.cc424a82.chunk.js",
+    "main.js.map": "/truffle-react-voting/static/js/main.cc424a82.chunk.js.map",
+    "runtime-main.js": "/truffle-react-voting/static/js/runtime-main.ec9cffe7.js",
+    "runtime-main.js.map": "/truffle-react-voting/static/js/runtime-main.ec9cffe7.js.map",
+    "static/css/2.25729603.chunk.css": "/truffle-react-voting/static/css/2.25729603.chunk.css",
+    "static/js/2.e84744fa.chunk.js": "/truffle-react-voting/static/js/2.e84744fa.chunk.js",
+    "static/js/2.e84744fa.chunk.js.map": "/truffle-react-voting/static/js/2.e84744fa.chunk.js.map",
+    "index.html": "/truffle-react-voting/index.html",
+    "precache-manifest.76f6d67ac2dda3f82c605ef407edbdb8.js": "/truffle-react-voting/precache-manifest.76f6d67ac2dda3f82c605ef407edbdb8.js",
+    "service-worker.js": "/truffle-react-voting/service-worker.js",
+    "static/css/2.25729603.chunk.css.map": "/truffle-react-voting/static/css/2.25729603.chunk.css.map",
+    "static/css/main.017233eb.chunk.css.map": "/truffle-react-voting/static/css/main.017233eb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec9cffe7.js",
+    "static/css/2.25729603.chunk.css",
+    "static/js/2.e84744fa.chunk.js",
+    "static/css/main.017233eb.chunk.css",
+    "static/js/main.cc424a82.chunk.js"
+  ]
+}
